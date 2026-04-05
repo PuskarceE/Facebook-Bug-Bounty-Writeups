@@ -60,7 +60,7 @@
 ![---------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <a name="ATO"></a>
-### Account Takeovers
+### Account Tak
 
 - [React debugkeystore key was trusted by Facebook and Oculus domains, leading to account takeover.](https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html)
 - [Multiple bugs chained to takeover Facebook Accounts which uses Gmail.](https://ysamm.com/?p=763)
